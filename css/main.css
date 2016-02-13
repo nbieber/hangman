@@ -1,0 +1,9 @@
+body {
+	font-size: 36px;
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#blanks span {
+	padding: 5px;
+}
